@@ -2,7 +2,7 @@
 
 # StockSense
 
-![StockSense Logo](** is a comprehensive, professional-grade stock price forecasting and analysis platform. Designed for financial analysts, data scientists, and traders, StockSense combines advanced technical indicators, robust risk management metrics, and multiple machine learning models with rich, insightful visualizations.
+Stocksense is a comprehensive, professional-grade stock price forecasting and analysis platform. Designed for financial analysts, data scientists, and traders, StockSense combines advanced technical indicators, robust risk management metrics, and multiple machine learning models with rich, insightful visualizations.
 
 ***
 
