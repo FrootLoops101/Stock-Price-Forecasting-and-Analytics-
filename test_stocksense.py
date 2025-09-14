@@ -7,7 +7,7 @@ import warnings
 warnings.filterwarnings('ignore')
 
 # Import relevant classes/functions from your project
-from main import EnhancedStockForecaster, generate_enhanced_stock_data
+from stocks_forecaster.py import EnhancedStockForecaster, generate_enhanced_stock_data
 
 class TestStockSense(unittest.TestCase):
     def setUp(self):
