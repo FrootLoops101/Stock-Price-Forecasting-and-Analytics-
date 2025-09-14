@@ -14,10 +14,6 @@ Stocksense is a comprehensive, professional-grade stock price forecasting and an
 - [Usage](#usage)  
 - [Technologies Used](#technologies-used)  
 - [Performance Metrics](#performance-metrics)  
-- [Screenshots](#screenshots)  
-- [Contributing](#contributing)  
-- [License](#license)  
-- [Contact](#contact)  
 
 ***
 
