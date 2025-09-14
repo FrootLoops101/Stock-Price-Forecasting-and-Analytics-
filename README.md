@@ -1,5 +1,3 @@
-Here is a more detailed and professional README.md content tailored for the StockSense project, following best practices and including all important sections and metrics.
-
 ***
 
 # StockSense
